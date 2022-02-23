@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MCU_SiLabs_EFM32TG11")(type "KiCad")(uri "/home/nathan/Documents/3-Resources/kicad-resources/kicad-libraries/Personal/symbols/MCU_SiLabs_EFM32TG11.kicad_sym")(options "")(descr ""))
+  (lib (name "PWR_Special")(type "KiCad")(uri "/home/nathan/Documents/3-Resources/kicad-resources/kicad-libraries/Personal/symbols/PWR_Special.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulator_Linear_NS")(type "KiCad")(uri "/home/nathan/Documents/3-Resources/kicad-resources/kicad-libraries/Personal/symbols/Regulator_Linear_NS.kicad_sym")(options "")(descr ""))
+)
