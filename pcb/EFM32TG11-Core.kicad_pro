@@ -474,7 +474,7 @@
           "+3V3"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgb(255, 153, 0)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4064,
         "via_diameter": 0.8128,
         "via_drill": 0.4064,
@@ -491,12 +491,10 @@
         "microvia_drill": 0.1,
         "name": "Input Power",
         "nets": [
-          "Net-(C1-Pad1)",
-          "Net-(F1-Pad1)",
           "Net-(F1-Pad2)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgb(255, 153, 0)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4064,
         "via_diameter": 0.8128,
         "via_drill": 0.4064,
@@ -517,7 +515,7 @@
           "VDDA"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgb(255, 153, 0)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2032,
         "via_diameter": 0.6096,
         "via_drill": 0.3048,
@@ -582,6 +580,18 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "5b51e61d-ef92-4a84-a8a8-07f69eeebfbc",
+      "Power"
+    ],
+    [
+      "8d968422-eb6d-4769-950e-8d6b84ff044d",
+      "MCU"
+    ],
+    [
+      "ab34d07b-f1d4-4553-9cc6-38422cb8bcab",
+      "IO Connectors"
     ]
   ],
   "text_variables": {}
