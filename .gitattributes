@@ -1,7 +1,7 @@
 # Cleaning and Smudging for Kicad Projects
 
 # Remove the date in .pro
-*.pro filter=kicad_project
+*.kicad_pro filter=kicad_project
 
 # Cleanup the Flag Numbering
 *.sch filter=kicad_sch
