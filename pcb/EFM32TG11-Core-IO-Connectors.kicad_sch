@@ -9,7 +9,7 @@
     (date "2022-02-18")
     (rev "A")
     (company "Project: EFM32TG11-Core")
-    (comment 1 "Rev A: Initial Release")
+    (comment 1 "Rev A: Initial Release - git: ${gitHash}")
   )
 
   (lib_symbols
@@ -409,8 +409,8 @@
     )
   )
 
-  (bus_alias "GPIO_HI" (members "PB11" "PD[2..3]" "PD[6..8]" "PC[6..7]" "PE[4..7]" "PC[12..15]"))
   (bus_alias "GPIO_LO" (members "PE[8..12]" "PE15" "PA[0..5]" "PB[3..6]"))
+  (bus_alias "GPIO_HI" (members "PB11" "PD[2..3]" "PD[6..8]" "PC[6..7]" "PE[4..7]" "PC[12..15]"))
   (junction (at 179.07 140.97) (diameter 0) (color 0 0 0 0)
     (uuid 37398f17-5fb3-402c-adb1-7d3d3dfd20cd)
   )

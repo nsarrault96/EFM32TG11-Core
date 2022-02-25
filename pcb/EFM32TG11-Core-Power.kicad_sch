@@ -9,7 +9,7 @@
     (date "2022-02-18")
     (rev "A")
     (company "Project: EFM32TG11-Core")
-    (comment 1 "Rev A: Initial Release")
+    (comment 1 "Rev A: Initial Release - git: ${gitHash}")
   )
 
   (lib_symbols

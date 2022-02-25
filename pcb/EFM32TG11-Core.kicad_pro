@@ -594,5 +594,7 @@
       "IO Connectors"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "gitHash": "20d7c9d"
+  }
 }
